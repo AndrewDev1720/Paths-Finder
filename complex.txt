@@ -1,0 +1,8 @@
+Cincinnati 100 Columbus 1000 Toledo 1 Indianapolis
+Chicago 1 Detroit 10 Toledo
+Toledo 10 Cleveland
+Cleveland 1 Buffalo 100 Pittsburgh
+Columbus 10 Pittsburgh
+Pittsburgh 10 Buffalo
+Detroit 1 Toledo
+Indianapolis 1 Chicago

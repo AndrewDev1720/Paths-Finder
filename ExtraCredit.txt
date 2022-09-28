@@ -1,0 +1,11 @@
+BacNinh 145 QuangNinh 30 BacGiang 45 Hanoi
+Hanoi 45 BacNinh 36 HungYen 96 PhuTho 84 ThaiNguyen
+BacGiang 99 LangSon 87 ThaiNguyen 229 QuangNinh 30 BacNinh 150 ThaiBinh
+QuangNinh 78 HaiPhong 229 BacGiang 145 BacNinh
+ThaiBinh 65 HaiDuong 67 HungYen 150 BacGiang
+HungYen 36 Hanoi 67 ThaiBinh 40 HaiDuong
+PhuTho 96 Hanoi
+HaiPhong 61 HaiDuong 78 QuangNinh
+HaiDuong 61 HaiPhong 40 HungYen 65 ThaiBinh
+ThaiNguyen 181 LangSon 87 BacGiang 84 Hanoi
+LangSon 99 BacGiang 181 ThaiNguyen

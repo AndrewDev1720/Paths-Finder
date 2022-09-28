@@ -1,0 +1,8 @@
+Cincinnati Columbus Toledo Indianapolis
+Columbus Cincinnati Cleveland Pittsburgh
+Indianapolis Cincinnati Chicago
+Toledo Detroit Chicago
+Chicago Toledo Detroit
+Cleveland Toledo Pittsburgh Buffalo
+Buffalo Pittsburgh
+Detroit Chicago Toledo
